@@ -1,0 +1,18 @@
+#gif{
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: flex-start;
+}
+#titulo{
+    background-color: #7e0404;
+    font-size: xx-large;
+    text-align: center;
+    color: aliceblue;
+    font-weight: bolder;
+    padding: 1%;
+}
+#cardapio{
+    text-align: center;
+}
